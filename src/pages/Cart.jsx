@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cart = () => {
   return (
-    <div>Cart</div>
+    <h2 className='text-center mt-10 text-2xl'>your cart is empty</h2>
   )
 }
 
